@@ -1,0 +1,5 @@
+# Staging/QA Environment - Block all crawlers
+User-agent: *
+Disallow: /
+
+# No sitemap for staging
