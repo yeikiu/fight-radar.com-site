@@ -400,7 +400,7 @@
         "fighter1": {
           "name": "Shamil Gaziev",
           "ufcstats_url": "http://ufcstats.com/fighter-details/6747ccd6d1acd266",
-          "division_ranking": "13"
+          "division_ranking": "15"
         },
         "fighter2": {
           "name": "Brando Pericic (The Balkan Bear)",
@@ -603,12 +603,12 @@
         "fighter1": {
           "name": "Jan Blachowicz",
           "ufcstats_url": "http://ufcstats.com/fighter-details/99df7d0a2a08a8a8",
-          "division_ranking": "5"
+          "division_ranking": "4"
         },
         "fighter2": {
           "name": "Bogdan Guskov (Hitman)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/ef5dcb10d2bd4b0f",
-          "division_ranking": "8"
+          "division_ranking": "10"
         },
         "weightClass": "Light Heavyweight",
         "scheduledRounds": 3
@@ -801,6 +801,76 @@
         },
         "weightClass": "Women's Strawweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Dooho Choi (The Korean Superboy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e93b04e308913c2e",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Daniel Santos (Willycat)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b67d6bacc68d4c92",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Malcolm Wellmaker (The Machine)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2e45d08b3f2f02c8",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Juan Diaz",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/74939a16c7b56f33",
+          "division_ranking": ""
+        },
+        "weightClass": "Bantamweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Jeremiah Wells",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d66a46de8d705353",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Nicolas Dalby (Lokomotivo)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9d19d9e4aa2662e8",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Trey Ogden (Shamurai)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/cfc3e7bb44685289",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Tommy Gantt",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/de83f920fd302871",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Cody Brundage",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f14f644d41ade29f",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Andre Petroski",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5f61780fe5e9b6d0",
+          "division_ranking": ""
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 3
       }
     ]
   },
@@ -832,7 +902,7 @@
         "fighter2": {
           "name": "Tallison Teixeira (Xicao)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/17923f676f100e16",
-          "division_ranking": "12"
+          "division_ranking": "13"
         },
         "weightClass": "Heavyweight",
         "scheduledRounds": 3
@@ -841,12 +911,12 @@
         "fighter1": {
           "name": "Zhang Mingyang (Mountain Tiger)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/8a65fd9ba31fd3f7",
-          "division_ranking": "15"
+          "division_ranking": ""
         },
         "fighter2": {
           "name": "Alonzo Menifield (Atomic)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/a495f599e787614f",
-          "division_ranking": ""
+          "division_ranking": "15"
         },
         "weightClass": "Light Heavyweight",
         "scheduledRounds": 3
@@ -947,6 +1017,20 @@
           "division_ranking": ""
         },
         "weightClass": "Women's Strawweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Muslim Salikhov (King of Kung Fu)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/447f9858ae78f921",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jake Matthews (The Celtic Kid)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a845f0735bc67405",
+          "division_ranking": ""
+        },
+        "weightClass": "Welterweight",
         "scheduledRounds": 3
       }
     ]
@@ -1115,6 +1199,20 @@
           "division_ranking": "9"
         },
         "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Josh Hokit",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/955da1675ad58a50",
+          "division_ranking": "5"
+        },
+        "fighter2": {
+          "name": "Derrick Lewis (The Black Beast)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d3df1add9d9a7efb",
+          "division_ranking": "9"
+        },
+        "weightClass": "Heavyweight",
         "scheduledRounds": 3
       }
     ]
