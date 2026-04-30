@@ -48,9 +48,23 @@
       },
       {
         "fighter1": {
+          "name": "Marwan Rahiki (Freaky)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6eedb757f13b9978",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Ollie Schmid",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/b701f095e6ccb149",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Shamil Gaziev",
           "ufcstats_url": "http://ufcstats.com/fighter-details/6747ccd6d1acd266",
-          "division_ranking": "15"
+          "division_ranking": "14"
         },
         "fighter2": {
           "name": "Brando Pericic (The Balkan Bear)",
@@ -272,7 +286,7 @@
         "fighter2": {
           "name": "Yaroslav Amosov",
           "ufcstats_url": "http://ufcstats.com/fighter-details/f139d6836efd43dd",
-          "division_ranking": "15"
+          "division_ranking": "14"
         },
         "weightClass": "Welterweight",
         "scheduledRounds": 3
@@ -286,6 +300,20 @@
         "fighter2": {
           "name": "Mateusz Rebecki",
           "ufcstats_url": "http://ufcstats.com/fighter-details/849c5d9979df5357",
+          "division_ranking": ""
+        },
+        "weightClass": "Lightweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Jim Miller (A-10)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d1941565abf50b16",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jared Gordon (Flash)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7026eca45f65377b",
           "division_ranking": ""
         },
         "weightClass": "Lightweight",
@@ -358,7 +386,7 @@
         "fighter1": {
           "name": "Arnold Allen (Almighty)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/040a74bb0a465c54",
-          "division_ranking": "8"
+          "division_ranking": "7"
         },
         "fighter2": {
           "name": "Melquizael Costa (The Dalmatian)",
@@ -470,12 +498,12 @@
         "fighter1": {
           "name": "Ketlen Vieira (Fenomeno)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/b9706f80d005036c",
-          "division_ranking": "4"
+          "division_ranking": "5"
         },
         "fighter2": {
           "name": "Jacqueline Cavalcanti",
           "ufcstats_url": "http://ufcstats.com/fighter-details/e3964ece586e0635",
-          "division_ranking": "10"
+          "division_ranking": "11"
         },
         "weightClass": "Women's Bantamweight",
         "scheduledRounds": 3
@@ -695,6 +723,20 @@
           "division_ranking": ""
         },
         "weightClass": "Women's Strawweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Zhu Kangjie",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6f4ec5aa3eced219",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Ramon Taveras (The Savage)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/c5ccd878231c5407",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
         "scheduledRounds": 3
       }
     ]
