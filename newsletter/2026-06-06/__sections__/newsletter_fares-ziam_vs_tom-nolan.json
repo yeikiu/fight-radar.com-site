@@ -1,0 +1,51 @@
+{
+  "event": "UFC Fight Night: Muhammad vs. Bonfim",
+  "event_date": "6 de junio de 2026",
+  "event_date_iso": "2026-06-06",
+  "fight": {
+    "fighter_a": "Fares Ziam",
+    "fighter_b": "Tom Nolan",
+    "prediction": "Fares Ziam",
+    "confidence": 79,
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 71,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 91,
+    "raw_fighter_a": "Fares Ziam",
+    "raw_fighter_b": "Tom Nolan",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Fares+Ziam+%28The+Smile+Killer%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Fares Ziam</a></strong> llega a este enfrentamiento de peso ligero con el viento a favor. Su récord total de carrera es de 18-4-0, pero la métrica que más pesa es la reciente: 5-0-0 en cinco peleas en los últimos tres años, sin un solo tropiezo. El <strong>#14 del ranking de peso ligero</strong> muestra un perfil técnico equilibrado y difícil de explotar — su golpeo defensivo (63 sobre 100) y su defensa de derribos (72) lo hacen resistente en las dos zonas donde más se decide un duelo de esta categoría. Ofensivamente, un golpeo de 60 le permite ser activo sin depender del espectáculo: su arma más peligrosa no es el poder, es la consistencia.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Tom+Nolan+%28Big+Train%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Tom Nolan</a></strong>, fuera del top 15, no viene como extra. Su récord total de carrera de 10-1-0 tiene peso, aunque el tramo reciente cuenta una historia más matizada: 4-1-0 en cinco peleas, con una derrota en enero de 2024 que no debe pasarse por alto. Lo más llamativo de su perfil es una amenaza de finalización de 50 — el área donde supera a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Fares+Ziam+%28The+Smile+Killer%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Fares Ziam</a> sobre el papel —, pero sus métricas de control (26) y derribo ofensivo (22) sugieren que sostener el dominio durante tres asaltos será un reto real. Este duelo se resolverá en la acumulación: quién administra mejor la distancia, quién convierte los pequeños momentos de ventaja en trabajo neto ante los jueces.\n---"
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Fares+Ziam+%28The+Smile+Killer%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Fares Ziam</a></strong> llega como favorito claro, respaldado por una racha de <strong>5 victorias consecutivas en los últimos tres años</strong>.\nLa ventaja decisiva está en su <strong>golpeo defensivo (63) y defensa de derribos (72)</strong>, dimensiones donde supera claramente a su rival.\nEl método más probable de resolución es la <strong>decisión de los jueces</strong>, en un duelo que apunta a ir la distancia completa.\n---"
+    ],
+    "fight_conclusions": [
+      "Un enfrentamiento entre dos peleadores que no se regalarán nada, donde cada asalto construye el resultado final. El radar favorece a <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Fares+Ziam+%28The+Smile+Killer%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Fares Ziam</a> con un 79% de probabilidad. Por separado, el método más probable de finalización es la decisión, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

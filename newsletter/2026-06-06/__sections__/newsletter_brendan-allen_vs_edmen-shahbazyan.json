@@ -1,0 +1,51 @@
+{
+  "event": "UFC Fight Night: Muhammad vs. Bonfim",
+  "event_date": "6 de junio de 2026",
+  "event_date_iso": "2026-06-06",
+  "fight": {
+    "fighter_a": "Brendan Allen",
+    "fighter_b": "Edmen Shahbazyan",
+    "prediction": "Edmen Shahbazyan",
+    "confidence": 72,
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 70,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 91,
+    "raw_fighter_a": "Brendan Allen",
+    "raw_fighter_b": "Edmen Shahbazyan",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Brendan+Allen+%28All+In%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Brendan Allen</a></strong> llega como el <strong>#4 del ranking peso medio</strong> con un récord total de carrera de 26-7-0 y una forma reciente de 5-2-0 en 7 peleas durante los últimos 36 meses —dos derrotas que no se pueden ignorar y que revelan franjas reales de vulnerabilidad en su juego. Su golpeo ofensivo (53/100) lo convierte en un peleador activo e incómodo, y su amenaza de finalización (60/100) advierte que nunca está fuera de la pelea mientras esté en pie o en el suelo. El problema está en su golpeo defensivo (48/100): ese número señala que absorbe más castigo del que debería para alguien que aspira a escalar en la clasificación.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Edmen+Shahbazyan+%28The+Golden+Boy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Edmen Shahbazyan</a></strong> llega sin ranking oficial en el top 15 pero con una solidez reciente que merece atención: 4-1-0 en 5 peleas en los últimos tres años, con una sola derrota que interrumpió una racha que luego retomó. Su récord total de carrera es de 16-5-0. Lo que más define su perfil en este combate no es el golpeo sino la estructura defensiva: una defensa de derribo de 73/100 hace muy difícil que el rival controle los intercambios desde la jaula, y su control propio (64/100) sugiere que puede imponer el ritmo cuando lo necesite. La amenaza de finalización de 75/100 es el dato más alto del duelo —una presencia constante que obliga al rival a gestionar el riesgo en todo momento. En un enfrentamiento a tres rondas, ese tipo de presión sostenida acumula rondas sin necesitar grandes momentos.\n---"
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Edmen+Shahbazyan+%28The+Golden+Boy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Edmen Shahbazyan</a></strong>, fuera del top 15, llega como favorito claro ante el cuarto del ranking en peso medio.\nSu defensa de derribo (<strong>73/100</strong>) y amenaza de finalización (<strong>75/100</strong>) marcan la diferencia estructural del duelo.\nEl método más probable de cierre es la <strong>decisión</strong>, en una pelea que se medirá en detalles acumulados a lo largo de tres rondas.\n---"
+    ],
+    "fight_conclusions": [
+      "Este combate en peso medio tiene todos los ingredientes de una decisión peleada en los márgenes: microvictorias, control de distancia y quién aguanta mejor el tercer capítulo. El radar favorece a <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Edmen+Shahbazyan+%28The+Golden+Boy%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Edmen Shahbazyan</a></strong> con un <strong>72% de probabilidad</strong>. Por separado, el método más probable de finalización es la <strong>decisión</strong>, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}

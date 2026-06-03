@@ -1,0 +1,51 @@
+{
+  "event": "UFC Fight Night: Muhammad vs. Bonfim",
+  "event_date": "6 de junio de 2026",
+  "event_date_iso": "2026-06-06",
+  "fight": {
+    "fighter_a": "Bruno Silva",
+    "fighter_b": "Edgar Chairez",
+    "prediction": "Edgar Chairez",
+    "confidence": 74,
+    "stats": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "stats_b": {
+      "STR_OFF": 50,
+      "STR_DEF": 50,
+      "TD_OFF": 50,
+      "TD_DEF": 0,
+      "CTRL": 0,
+      "FIN_THREAT": 0
+    },
+    "method": "DECISIÓN",
+    "method_prob": 72,
+    "duration": "OVER 1.5 rounds",
+    "duration_prob": 92,
+    "raw_fighter_a": "Bruno Silva",
+    "raw_fighter_b": "Edgar Chairez",
+    "rounds": 3,
+    "has_prediction": true,
+    "card_label": "COMBATE",
+    "is_women": false,
+    "division": ""
+  },
+  "sections_es": {
+    "intro": "",
+    "breakdowns": [
+      "(COMBATE):\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Bruno+Silva+%28Bulldog%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Bruno Silva</a></strong> presenta un récord total de carrera de 23-13-0 y una métrica que impone respeto: su amenaza de finalización alcanza <strong>100 sobre 100</strong>, el nivel más alto posible. Eso lo convierte en un peligro constante mientras esté en pie o en el suelo. Su defensa de derribos es sólida — <strong>82 sobre 100</strong> —, y su capacidad de control (67) sugiere un peleador que sabe agotar al rival desde el clinch y las posiciones de suelo. El problema está en los datos recientes: en los últimos 36 meses acumula <strong>0-5-0 en cinco peleas</strong>, cinco derrotas consecutivas que plantean preguntas reales sobre su estado competitivo actual, más allá de lo que el historial acumulado pueda sugerir.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Edgar+Chairez+%28Puro+Chicali%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Edgar Chairez</a></strong> llega con un récord total de 13-6-0 (con 1 NC) y un tramo reciente de 3-2-0 en 6 peleas en los últimos 36 meses, con victoria en su última actuación en febrero de 2026. Su golpeo ofensivo (47) es comparable al del rival, y su amenaza de finalización (67) le mantiene como factor en cualquier fracción del combate. Donde los datos señalan una vulnerabilidad clara es en su defensa de derribos: <strong>33 sobre 100</strong> es un número que Bruno, con su derribo ofensivo de 20 y su control (67), podría intentar explotar. Sin embargo, el grappling ofensivo de <a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Edgar+Chairez+%28Puro+Chicali%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Edgar Chairez</a> es prácticamente nulo — derribo ofensivo de 0 y control de 6 —, lo que indica que su apuesta pasa principalmente por el golpeo y la distancia.\n---"
+    ],
+    "quick_reads": [
+      "<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Edgar+Chairez+%28Puro+Chicali%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Edgar Chairez</a></strong> se perfila como el favorito en este duelo de peso mosca, con ambos contendientes fuera del ranking oficial.\n<strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Bruno+Silva+%28Bulldog%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Bruno Silva</a></strong> llega en un tramo reciente de <strong>0-5-0 en los últimos 36 meses</strong>, la sombra más larga sobre sus opciones este sábado.\nEl método de finalización más probable es <strong>la decisión</strong>, sea quien sea el que marque el ritmo del combate.\n---"
+    ],
+    "fight_conclusions": [
+      "Este es un duelo donde la forma reciente pesa tanto como el historial acumulado, y los números de los últimos tres años cuentan historias muy distintas para cada peleador. El radar favorece a <strong><a href=\"https://www.fight-radar.com/#/es/data-center/fighter-details?fighter=Edgar+Chairez+%28Puro+Chicali%29\" class=\"fighter-link\" target=\"_blank\" rel=\"noopener\">Edgar Chairez</a></strong> con un <strong>74% de probabilidad</strong>. Por separado, el método más probable de finalización es <strong>la decisión</strong>, independientemente de quién gane."
+    ],
+    "conclusion": ""
+  }
+}
