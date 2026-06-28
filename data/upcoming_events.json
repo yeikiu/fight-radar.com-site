@@ -1,195 +1,4 @@
 {
-  "27-06-2026": {
-    "date": "27-06-2026",
-    "name": "UFC Fight Night: Fiziev vs. Torres",
-    "location": "Baku, Azerbaijan",
-    "fights": [
-      {
-        "fighter1": {
-          "name": "Rafael Fiziev (Ataman)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c814b4c899793af6",
-          "division_ranking": "11"
-        },
-        "fighter2": {
-          "name": "Manuel Torres (El Loco)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/2e7878927067fdca",
-          "division_ranking": "15"
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 5
-      },
-      {
-        "fighter1": {
-          "name": "Shara Magomedov (Bullet)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/06734ca9d88dec3a",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Michel Pereira (Demolidor)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/595db60957de51d3",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Nazim Sadykhov (Black Wolf)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ff62013d2fce6d13",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Matheus Camilo (Jaguar)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/72f890c5d421e705",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Asu Almabayev (Zulfikar)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8d3273573b85be09",
-          "division_ranking": "9"
-        },
-        "fighter2": {
-          "name": "Charles Johnson (InnerG)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/814e5233e2acf2ee",
-          "division_ranking": "14"
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Ikram Aliskerov",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/b07aed698fba8624",
-          "division_ranking": "14"
-        },
-        "fighter2": {
-          "name": "Brunno Ferreira (The Hulk)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/1e719d4b676dc19a",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Abus Magomedov",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/36b8f265bcd1b7a4",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Michal Oleksiejczuk (Hussar)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0d65c432720accb9",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Farman Hasanov",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/c88f8a9c1ea7165d",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Eric Nolan (Nightime)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/64b12fe31be7560c",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Abdul Rakhman Yakhyaev (Hunter)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/95aff2fd8d09a5f0",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Julius Walker (Juice Box)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6add18754930182b",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Nursulton Ruziboev (Black)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/49d2a08964c5eb11",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Andrey Pulyaev",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/22e07d3da1aa3475",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Kaan Ofli (Genghis)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7facc9c45d792985",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Javier Reyes (Blair)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4a574b8512fc1b30",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Daniil Donchenko",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/70dd69b6a703257e",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Theodor Berggren",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/feef5f8f5629e5e7",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Bekzat Almakhan (The Turan Warrior)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a4dc0f2b95df4cc1",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jean Matsumoto",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/ffd3224638c01b57",
-          "division_ranking": ""
-        },
-        "weightClass": "Bantamweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Tahir Abdullayev",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e047d3b541afd4a7",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jefferson Nascimento",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4b85abc5abbe657c",
-          "division_ranking": ""
-        },
-        "weightClass": "Welterweight",
-        "scheduledRounds": 3
-      }
-    ],
-    "ufcEventId": 1319,
-    "startTime": "2026-06-27T13:00Z"
-  },
   "11-07-2026": {
     "date": "11-07-2026",
     "name": "UFC 329: McGregor vs. Holloway 2",
@@ -416,34 +225,6 @@
       },
       {
         "fighter1": {
-          "name": "Brad Tavares",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/0c6d9ea8306c029e",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Marc-Andre Barriault (Powerbar)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/8e9eb3fc86db0f7d",
-          "division_ranking": ""
-        },
-        "weightClass": "Middleweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Chase Hooper (The Dream)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/971246648e162f0d",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Mitch Ramirez",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e99eb0ef25885de5",
-          "division_ranking": ""
-        },
-        "weightClass": "Lightweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
           "name": "Jared Cannonier (The Killa Gorilla)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/13a0275fa13c4d26",
           "division_ranking": "11"
@@ -472,58 +253,16 @@
       },
       {
         "fighter1": {
-          "name": "Veronica Hardy",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/4798e823ada58fe9",
+          "name": "Chase Hooper (The Dream)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/971246648e162f0d",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Dione Barbosa (The Witch)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/27b388f0aab49780",
+          "name": "Mitch Ramirez",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e99eb0ef25885de5",
           "division_ranking": ""
         },
-        "weightClass": "Women's Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Alden Coria (Cobra)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/5e9ca8dd7d783a75",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Stewart Nicoll (Kakamora)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/2bd98ab77a8daa75",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Tommy McMillen (Gun)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/6b0a6def604de298",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Alberto Montes (The Promise)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/a112097ad877a48f",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Austin Bashi",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/d3f89fa685bd8420",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Jose Delgado",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7d6ceff6747f2de2",
-          "division_ranking": ""
-        },
-        "weightClass": "Featherweight",
+        "weightClass": "Lightweight",
         "scheduledRounds": 3
       },
       {
@@ -542,16 +281,44 @@
       },
       {
         "fighter1": {
-          "name": "Levi Rodrigues Jr.",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9ac4e43ed56429ed",
+          "name": "Tommy McMillen (Gun)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/6b0a6def604de298",
           "division_ranking": ""
         },
         "fighter2": {
-          "name": "Felipe Franco",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/e564146b9cf6dbef",
+          "name": "Alberto Montes (The Promise)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/a112097ad877a48f",
           "division_ranking": ""
         },
-        "weightClass": "Light Heavyweight",
+        "weightClass": "Featherweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Veronica Hardy",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/4798e823ada58fe9",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Dione Barbosa (The Witch)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/27b388f0aab49780",
+          "division_ranking": ""
+        },
+        "weightClass": "Women's Flyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Austin Bashi",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d3f89fa685bd8420",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Jose Delgado",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7d6ceff6747f2de2",
+          "division_ranking": ""
+        },
+        "weightClass": "Featherweight",
         "scheduledRounds": 3
       },
       {
@@ -567,10 +334,38 @@
         },
         "weightClass": "Heavyweight",
         "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Levi Rodrigues Jr.",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9ac4e43ed56429ed",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Felipe Franco",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/e564146b9cf6dbef",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Alden Coria (Cobra)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/5e9ca8dd7d783a75",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Stewart Nicoll (Kakamora)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2bd98ab77a8daa75",
+          "division_ranking": ""
+        },
+        "weightClass": "Flyweight",
+        "scheduledRounds": 3
       }
     ],
     "ufcEventId": 1320,
-    "startTime": "2026-07-18T20:00Z"
+    "startTime": "2026-07-18T21:00Z"
   },
   "25-07-2026": {
     "date": "25-07-2026",
@@ -593,16 +388,16 @@
       },
       {
         "fighter1": {
-          "name": "Umar Nurmagomedov",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/2b6fc1c02736833d",
-          "division_ranking": "3"
+          "name": "Steve Erceg (Astroboy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/32ab52e5de93092d",
+          "division_ranking": "10"
         },
         "fighter2": {
-          "name": "David Martinez",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/9a97acbfd5a08bfa",
-          "division_ranking": "8"
+          "name": "Ramazan Temirov (Temurlan)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/7d0a1968b38ca439",
+          "division_ranking": ""
         },
-        "weightClass": "Bantamweight",
+        "weightClass": "Flyweight",
         "scheduledRounds": 3
       },
       {
@@ -617,48 +412,6 @@
           "division_ranking": "9"
         },
         "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Valter Walker (The Clean Monster)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/f5779a2303ed76ec",
-          "division_ranking": "14"
-        },
-        "fighter2": {
-          "name": "Thomas Petersen (The Train)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/764d39074a352e33",
-          "division_ranking": ""
-        },
-        "weightClass": "Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Magomed Tuchalov",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/bc5a51159ec2fdf2",
-          "division_ranking": ""
-        },
-        "fighter2": {
-          "name": "Brendson Ribeiro (The Gorilla)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/49edd0d90f60fb7d",
-          "division_ranking": ""
-        },
-        "weightClass": "Light Heavyweight",
-        "scheduledRounds": 3
-      },
-      {
-        "fighter1": {
-          "name": "Steve Erceg (Astroboy)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/32ab52e5de93092d",
-          "division_ranking": "10"
-        },
-        "fighter2": {
-          "name": "Ramazan Temirov (Temurlan)",
-          "ufcstats_url": "http://ufcstats.com/fighter-details/7d0a1968b38ca439",
-          "division_ranking": ""
-        },
-        "weightClass": "Flyweight",
         "scheduledRounds": 3
       },
       {
@@ -691,6 +444,20 @@
       },
       {
         "fighter1": {
+          "name": "Valter Walker (The Clean Monster)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/f5779a2303ed76ec",
+          "division_ranking": "14"
+        },
+        "fighter2": {
+          "name": "Thomas Petersen (The Train)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/764d39074a352e33",
+          "division_ranking": ""
+        },
+        "weightClass": "Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
           "name": "Uran Satybaldiev (Gorilla)",
           "ufcstats_url": "http://ufcstats.com/fighter-details/02f484417a6fa69d",
           "division_ranking": ""
@@ -701,6 +468,34 @@
           "division_ranking": "11"
         },
         "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Magomed Tuchalov",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/bc5a51159ec2fdf2",
+          "division_ranking": ""
+        },
+        "fighter2": {
+          "name": "Brendson Ribeiro (The Gorilla)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/49edd0d90f60fb7d",
+          "division_ranking": ""
+        },
+        "weightClass": "Light Heavyweight",
+        "scheduledRounds": 3
+      },
+      {
+        "fighter1": {
+          "name": "Umar Nurmagomedov",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/2b6fc1c02736833d",
+          "division_ranking": "3"
+        },
+        "fighter2": {
+          "name": "David Martinez",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/9a97acbfd5a08bfa",
+          "division_ranking": "8"
+        },
+        "weightClass": "Bantamweight",
         "scheduledRounds": 3
       }
     ],
@@ -948,5 +743,28 @@
     ],
     "ufcEventId": 1317,
     "startTime": "2026-08-15T23:00Z"
+  },
+  "22-08-2026": {
+    "date": "22-08-2026",
+    "name": "UFC Fight Night: Hernandez vs. Rodrigues",
+    "location": "Sacramento, California, USA",
+    "fights": [
+      {
+        "fighter1": {
+          "name": "Anthony Hernandez (Fluffy)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/093e1f5bb73850be",
+          "division_ranking": "6"
+        },
+        "fighter2": {
+          "name": "Gregory Rodrigues (Robocop)",
+          "ufcstats_url": "http://ufcstats.com/fighter-details/d1c65d2cf2925ddd",
+          "division_ranking": "12"
+        },
+        "weightClass": "Middleweight",
+        "scheduledRounds": 5
+      }
+    ],
+    "ufcEventId": 1323,
+    "startTime": "2026-08-22T20:00Z"
   }
 }
