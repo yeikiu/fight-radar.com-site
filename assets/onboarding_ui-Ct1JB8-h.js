@@ -1,0 +1,1 @@
+import{w as l}from"./lucide-Yzd4lzZ4.js";function s(){const e=l(!1),o=l(null),t=l(!1);return{welcomeOpen:e,welcomeInvite:o,tutorialOpen:t,openWelcome:(n=null)=>{o.set(n),e.set(!0)},closeWelcome:()=>{e.set(!1),o.set(null)},openTutorial:()=>t.set(!0),closeTutorial:()=>t.set(!1)}}const a=s();export{a as o};
