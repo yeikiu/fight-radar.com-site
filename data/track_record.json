@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-11T09:21:46.857Z",
+  "generatedAt": "2026-11-11T15:58:32.945Z",
   "provenance": {
-    "appVersion": "1.1.119",
+    "appVersion": "1.1.120",
     "radarCompetitorId": "fight-radar"
   },
   "summary": {
@@ -441,7 +441,7 @@
           "scheduledRounds": 3,
           "actual": {
             "winner": "http://ufcstats.com/fighter-details/4a07b1988477502c",
-            "resultType": "KO",
+            "resultType": "Decision",
             "round": 3,
             "time": "5:00"
           },
@@ -6605,7 +6605,7 @@
           "scheduledRounds": 3,
           "actual": {
             "winner": "http://ufcstats.com/fighter-details/a3dda21be645be93",
-            "resultType": "KO",
+            "resultType": "Decision",
             "round": 3,
             "time": "5:00"
           },
