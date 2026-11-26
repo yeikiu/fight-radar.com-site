@@ -1,0 +1,2 @@
+1.2.32
+fight_radar_pokemon f30f519 (fix/nube-produccion)
